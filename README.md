@@ -5,4 +5,9 @@
 <img src="https://i.imgur.com/r2dw6jB.jpg">
 
 
-# Tecnologias usadas: Spring Boot, JSP, MYSQL, Maven & CSS Materialize
+### Tecnologias usadas: 
+- Spring Boot, 
+- JSP, 
+- MYSQL, 
+- Maven & 
+- CSS Materialize
